@@ -43,3 +43,4 @@
      printf("Pontos turísticos:%d\n",turisticos2);
 
 
+}
