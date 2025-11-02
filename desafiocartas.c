@@ -1,6 +1,7 @@
 #include <stdio.h>
  int main(){
-     /*DADOS CARTA 1*/
+     printf("desafio cartas\n");
+    /*DADOS CARTA 1*/
     char estado[]= "A" ;   
     char codigo[]= "A01";
     char cidade[]= "Fortaleza";
