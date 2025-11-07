@@ -9,6 +9,8 @@
     float area= 10.000;
     float pib= 30.000;
     int turisticos= 50;
+    float densidade=populacao/area;
+    float percapita=pib/populacao;
 
       /*DADOS PARA EXPOR*/
 
@@ -19,6 +21,9 @@
      printf("Área:%f\n",area);
      printf("PIB:%f\n",pib);
      printf("Pontos turísticos:%d\n",turisticos);
+     printf("Densidade populacional: %f\n",densidade);
+     printf("PIB per capita:%f\n",percapita);
+
 
 
      /* DADOS CARTA 2*/
@@ -30,6 +35,8 @@
     float area2= 90.000;
     float pib2= 60.000;
     int turisticos2= 20;
+    float densidade2=populacao2/area2;
+    float percapita2= pib2/populacao2;
 
 
     /*DADOS PARA EXPOR*/
@@ -41,6 +48,9 @@
      printf("Área:%f\n",area2);
      printf("PIB:%f\n",pib2);
      printf("Pontos turísticos:%d\n",turisticos2);
+     printf("Densidade populacional: %f\n",densidade2);
+     printf("PIB per capita:%f\n",percapita2);
+
 
 
 }
