@@ -5,9 +5,9 @@
     char estado[]= "A" ;   
     char codigo[]= "A01";
     char cidade[]= "Fortaleza";
-    int populacao= 20.000;
-    float area= 10.000;
-    float pib= 30.000;
+    int populacao= 250.000;
+    float area= 180.000;
+    float pib= 120.000;
     int turisticos= 50;
     float densidade=populacao/area;
     float percapita=pib/populacao;
@@ -32,8 +32,8 @@
     char codigo2[]= "B02";
     char cidade2[]= "Recife";
     int populacao2= 70.000;
-    float area2= 90.000;
-    float pib2= 60.000;
+    float area2= 180.000;
+    float pib2=200.000;
     int turisticos2= 20;
     float densidade2=populacao2/area2;
     float percapita2= pib2/populacao2;
